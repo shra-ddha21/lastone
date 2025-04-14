@@ -1,3 +1,2 @@
-# lastone
-
-this repo is created by shraddy
+readme.md file
+md means -- markdown
