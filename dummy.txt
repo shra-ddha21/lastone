@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 1. git clone
 2. git add README.md
+=======
+1. git clone ....
+2. git add
+>>>>>>> iss53
+hello 
